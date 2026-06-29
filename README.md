@@ -1,6 +1,6 @@
 Facial Landmarks Pro
 
-A deep learning-based application for detecting 478-point facial mesh in images. Uses MediaPipe's Face Landmarker model—a deep neural network trained on thousands of annotated face images. Unlike older apps using classical models like Haar Cascade (bounding boxes only) or LBF (68 points), this provides 7x more detail.
+A deep learning-based application for detecting 478-point facial mesh in images. Uses MediaPipe's Face Landmarker model; a deep neural network trained on thousands of annotated face images. Unlike older apps using classical models like Haar Cascade (bounding boxes only) or LBF (68 points), this provides 7x more detail.
 
 
 WHAT IT DOES
